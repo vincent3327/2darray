@@ -21,3 +21,4 @@ int main()
 	printf("%d\n",*(*pa[0]));
 	//int* p[3] = a;
 }
+ii
